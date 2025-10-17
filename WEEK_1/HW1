@@ -1,1 +1,17 @@
+Question 1:
+The idea is a project initiator that will give you a set of files to start with AI Assisted Development. This would walk you through selecting foundational models, vector databases, agent tools, chunking strategies, and front end and back end
+suggestions. A to-do list would also be generated along with next steps for completion. 
+
+Question 2:
+The system would develop code, to-do lists and provide suggestions using specified packages and documentation. Additionally, the tool could use existing github repos or projects to generate ideas, or modify and extend current uses. 
+
+Question 3:
+Yes, package documentation, github documentation, and examples of end-to-end projects available on the web. It could also utilize videos and documents from this course and additional data talks club courses to provide suggestions
+and reinforce key ideas. 
+
+Question 4:
+
+Question 5:
+
+Question 6:
 
